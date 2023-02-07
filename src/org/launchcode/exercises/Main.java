@@ -1,7 +1,6 @@
 package org.launchcode.exercises;
 
 import java.util.HashMap;
-import java.util.Map;
 
 public class Main {
 
@@ -26,6 +25,7 @@ public class Main {
     public static int CheckFileExtension(String fileName)
     {
         // Write code here!
+        return 0;
     }
 
 }
